@@ -2,8 +2,8 @@
 
 ## Contributors
 
-* Anastasios-Orestis Stefas (4916)
-* Amalia-Georgia Mouselimi (5074)
+* Amalia-Georgia Mouselimi 
+* Anastasios-Orestis Stefas 
 * University of Ioannina - Department of Computer Science and Engineering
 
 ---
